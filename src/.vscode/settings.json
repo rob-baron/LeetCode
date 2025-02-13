@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/App/src/src/44-wildcard-match",
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
